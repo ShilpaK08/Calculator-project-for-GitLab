@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestingTestverktygLektion7", "XUnitTestingTestverktygLektion7.csproj", "{604F18A7-E440-47F0-885D-CE0F7FA00A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestingTestverktygLektion7_Test", "..\XUnitTestingTestverktygLektion7_Test\XUnitTestingTestverktygLektion7_Test.csproj", "{77A34042-D6AE-4B01-8B79-A2AB15FDCADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604F18A7-E440-47F0-885D-CE0F7FA00A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604F18A7-E440-47F0-885D-CE0F7FA00A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604F18A7-E440-47F0-885D-CE0F7FA00A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604F18A7-E440-47F0-885D-CE0F7FA00A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A34042-D6AE-4B01-8B79-A2AB15FDCADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A34042-D6AE-4B01-8B79-A2AB15FDCADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A34042-D6AE-4B01-8B79-A2AB15FDCADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A34042-D6AE-4B01-8B79-A2AB15FDCADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A75BE1-2976-423B-9DD0-66099E2FE1E1}
+	EndGlobalSection
+EndGlobal

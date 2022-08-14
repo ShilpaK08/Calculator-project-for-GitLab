@@ -1,0 +1,16 @@
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\XUnitTestingTestverktygLektion7.exe
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\XUnitTestingTestverktygLektion7.deps.json
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\XUnitTestingTestverktygLektion7.runtimeconfig.json
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\XUnitTestingTestverktygLektion7.runtimeconfig.dev.json
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\XUnitTestingTestverktygLektion7.dll
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\ref\XUnitTestingTestverktygLektion7.dll
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\bin\Debug\net5.0\XUnitTestingTestverktygLektion7.pdb
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.csproj.AssemblyReference.cache
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.AssemblyInfoInputs.cache
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.AssemblyInfo.cs
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.dll
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\ref\XUnitTestingTestverktygLektion7.dll
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.pdb
+C:\Users\nikla\source\repos\XUnitTestingTestverktygLektion7\obj\Debug\net5.0\XUnitTestingTestverktygLektion7.genruntimeconfig.cache
